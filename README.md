@@ -49,7 +49,7 @@ Xây dựng ứng dụng Note (Đây là phần thực hành của nội dung ch
 
 [Bài mẫu của giảng viên - Trần Trung Chuyên](https://github.com/chuyentt/mynote)
 
-Tham khảo bài hướng dẫn tại [Navigation - Flutter](https://flutter.dev/docs/cookbook/navigation)
+Tham khảo thêm tại [Navigation - Flutter](https://flutter.dev/docs/cookbook/navigation)
 
 A few resources to get you started if this is your first Flutter project:
 
