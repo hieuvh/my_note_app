@@ -42,7 +42,7 @@ Xây dựng ứng dụng Note (Đây là phần thực hành của nội dung ch
  * 3.1: Trước khi xoá:
 ![3.1](https://raw.githubusercontent.com/hieuvh/my_note_app/master/images/sua2.png)
 
- * 3.2 Sau khi xoá:
+ * 3.2 Sau khi xoá: Tieu de 3 đã bị xoá khỏi danh sách ghi chú
 ![3.2](https://raw.githubusercontent.com/hieuvh/my_note_app/master/images/xoa.png)
 
 ## Tài liệu tham khảo
