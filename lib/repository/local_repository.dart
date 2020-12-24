@@ -1,4 +1,4 @@
-import 'package:mynote/ui/views/note/note_model.dart';
+import 'package:mynote/ui/views/note/user_model.dart';
 import 'package:path/path.dart';
 import 'package:sqflite/sqflite.dart';
 
@@ -23,15 +23,15 @@ class LocalRepository {
 
   Future _init() async {
     var databasesPath = await getDatabasesPath();
-    String path = join(databasesPath, 'note_app.db');
+    String path = join(databasesPath, 'user.db');
 
     _db = await openDatabase(path, version: 1,
         onCreate: (Database db, int version) async {
       /// Trong trường hợp database chưa có
       /// TODO: Trường hợp thay đổi lược đồ cần phải nghiên cứu kỹ
-      await db.execute(Note.createTable);
+      await db.execute(User.createTable);
 
-      /// TODO: Thêm các bảng khác ở đây như đối với Note
+      /// TODO: Thêm các bảng khác ở đây như đối với User
     });
     isInitialized = true;
   }
