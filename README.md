@@ -29,21 +29,21 @@ Xây dựng ứng dụng Note (Đây là phần thực hành của nội dung ch
 ## Các kết quả đã làm được trong project:
 
 1. **Xem và Thêm ghi chú**
-![1](https://github.com/hieuvh/mynote/raw/master//images/them.jpg)
+![1](https://raw.githubusercontent.com/hieuvh/my_note_app/master/images/them.jpg)
 
 2. **Sửa ghi chú**
  * 2.1: Giao diện sửa ghi chú:
-![2.1](https://github.com/hieuvh/mynote/raw/master/images/sua1.jpg)
+![2.1](https://raw.githubusercontent.com/hieuvh/my_note_app/master/images/sua1.jpg)
 
  * 2.2: Sau khi lưu ghi chú đã sửa:
-![2.2](https://github.com/hieuvh/mynote/raw/master/images/sua2.jpg)
+![2.2](https://raw.githubusercontent.com/hieuvh/my_note_app/master/images/sua2.jpg)
 
 3. **Xoá ghi chú**
  * 3.1: Trước khi xoá:
-![3.1](https://github.com/hieuvh/mynote/raw/master/images/sua2.jpg)
+![3.1](https://raw.githubusercontent.com/hieuvh/my_note_app/master/images/sua2.jpg)
 
  * 3.2 Sau khi xoá:
-![3.2](https://github.com/hieuvh/mynote/raw/master/images/xoa.jpg)
+![3.2](https://raw.githubusercontent.com/hieuvh/my_note_app/master/images/xoa.jpg)
 
 ## Tài liệu tham khảo
 
